@@ -1,0 +1,6 @@
+customhost = "update-your-rds-end-point"
+customuser = "username"
+custompass = "yourpassword"
+customdb = "created DB name"
+custombucket = "your S3 bucket name"
+customregion = "us-east-1"
